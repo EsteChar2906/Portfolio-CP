@@ -1,0 +1,15 @@
+<div class="contenedorHabilities">
+	<div class="row">
+		<div *ngFor="let skill of skills" class="col-sm-4" style="width: 10px;">
+			<div class="card text-center" style="width: 10rem; height: 10rem; margin-bottom: 30px;background-color: #fdffcd;">
+			<div class="card-body">
+			<h5 class="card-title">{{ skill.skill }}</h5>
+			<br>
+			<div>
+			<img src={{skill.image}} class="card-image" width="50" height="50" style="border-radius: 50%;">
+			</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</div>

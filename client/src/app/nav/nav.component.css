@@ -1,0 +1,11 @@
+.li{
+	color: black;
+}
+
+li:hoover{
+	color: white;
+}
+
+li:active{
+	color: blue;
+}

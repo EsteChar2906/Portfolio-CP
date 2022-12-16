@@ -1,0 +1,16 @@
+.profile{ 
+	border-style: groove; 
+	border-color: #092a09; 
+	width: 260px;
+	height: 530px;	
+}
+
+.navbar{
+	padding-top: 0px;
+	border-style: groove;
+	border-color: #092a09;;
+	width: 705px;
+	height: 530px;
+	justify-content: center;
+	background-color: #e0ffcd;
+}
