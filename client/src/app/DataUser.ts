@@ -16,8 +16,8 @@ export const habilities = [
 ];
 
 export const projects = [
-{name: "FleaMarket", description: "E-commerce sobre articulos electronicos para programadores en que que pueden comprar productos, puntuarlos y agregarlos o eliminarlos siendo administrador", deploy: "https://flea-market-nu.vercel.app/", repo: "https://github.com/Josedld7/FleaMarket"},
-{name: "Countries App", description: "En esta app puedes buscar todos los paises con sus principales detalles, distintas actividades turisticas, además de crear una actividad si no la encuentras.", deploy: "https://pi-countries-main-nine.vercel.app/", repo: "https://github.com/EsteChar2906/PI-Countries-main"}
+{name: "FleaMarket", description: "E-commerce sobre articulos electronicos para programadores en que que pueden comprar productos, puntuarlos y agregarlos o eliminarlos siendo administrador", deploy: "https://flea-market-nu.vercel.app/", repo: "https://github.com/Josedld7/FleaMarket", video: "PF"},
+{name: "Countries App", description: "En esta app puedes buscar todos los paises con sus principales detalles, distintas actividades turisticas, además de crear una actividad si no la encuentras.", deploy: "https://pi-countries-main-nine.vercel.app/", repo: "https://github.com/EsteChar2906/PI-Countries-main", video: "PI"}
 ]
 
 export const socialMedia = {

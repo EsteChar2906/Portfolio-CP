@@ -1,0 +1,13 @@
+.card{
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  width: 600px;
+}
+
+.contenedorProject{
+  width: 700px;
+  height: 460px;
+  margin-top: 5px;
+  overflow-y: scroll;
+}
