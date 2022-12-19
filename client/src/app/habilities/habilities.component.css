@@ -1,7 +1,41 @@
 .contenedorHabilities{
 	width: 700px;
-	height: 530px;
-	margin-left: 50px;
-	margin-top: 50px;
+	height: 500px;
 	justify-content: center;
+	overflow-y: scroll;
+}
+
+.row{
+	margin: 10px;
+	width: 690px;
+	height: 430px;
+}
+
+.card{
+	width: 180px; 
+	height: 200px; 
+	margin-bottom: 10px;
+	background-color: #fdffcd;
+}
+
+@media (min-width: 52px) and (max-width:1024px){
+	.contenedorHabilities{
+		width: 500px;
+		height: auto;
+	}
+
+	.card{
+		width: 120px;
+		height: 120px;
+		margin-bottom: 5px;
+	}
+
+	.card-title{
+		font-size: 14px;
+	}
+
+	.card-image{
+		width: 20px;
+		height: 20px;
+	}
 }

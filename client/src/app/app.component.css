@@ -14,3 +14,16 @@
 	justify-content: center;
 	background-color: #e0ffcd;
 }
+
+@media (min-width: 52px) and (max-width:1024px) {
+	.profile{
+		width: 500px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.navbar{
+		width: 500px;
+		height: auto;
+	}
+}

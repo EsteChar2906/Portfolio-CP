@@ -7,3 +7,18 @@
 	height: 530px;
 	word-wrap: break-word;
 }
+
+.linea{
+	background-color: #092a09; 
+	width: 650px;
+}
+
+@media (min-width: 52px) and (max-width: 1024px){
+	.contenedorAbout{
+		width: 350px;
+	}
+
+	.linea{
+		width: 350px;
+	}
+}

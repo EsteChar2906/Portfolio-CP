@@ -11,3 +11,20 @@
   margin-top: 5px;
   overflow-y: scroll;
 }
+
+@media (min-width:  52px) and (max-width: 1024px) {
+  .contenedorProject{
+    width: 500px;
+    height: 490px;
+  }
+
+  .card{
+    width: 600px;
+    height: 270px;
+  }
+
+  .column{
+    overflow-x: scroll;
+    margin-right: 10px;
+  }
+}

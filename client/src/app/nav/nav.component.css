@@ -1,11 +1,17 @@
-.li{
-	color: black;
+.navbar{
+	width: 700px;
 }
 
-li:hoover{
-	color: white;
-}
+@media (min-width: 52px) and (max-width:1024px){
+	.navbar{
+		width: 500px;
+	}
 
-li:active{
-	color: blue;
+	.navbar-nav{
+		flex-direction: row;
+	}
+
+	.nav-item{
+		margin-right: 10px;		
+	}
 }

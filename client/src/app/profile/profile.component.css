@@ -38,3 +38,12 @@
 	flex-direction: row;
 	justify-content: center;
 }
+
+@media (min-width:  52px) and (max-width:1024px) {
+	.image{
+		margin-top: 10px;
+		margin-bottom: 15px;
+		width: 75px;
+		height: 75px;
+	}
+}
