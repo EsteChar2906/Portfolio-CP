@@ -9,8 +9,7 @@ import { projects } from '../DataUser';
 export class ProyectosComponent {
 
   project: any[];
-
-
+  
   constructor(){
     this.project = projects;
   }

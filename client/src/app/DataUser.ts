@@ -24,3 +24,17 @@ export const socialMedia = {
 	gitHub:"https://github.com/EsteChar2906",
     linkedin:"https://www.linkedin.com/in/carlos-alberto-pacheco-pedraza-936499144/"
 }
+
+export const carrousel = [{
+        image: 'assets/PI-Countries.png',
+        thumbImage: 'assets/PI-Countries.png',
+    }, {
+        image: '../assets/PI-Landing.png', // Support base64 image
+        thumbImage: '../assets/PI-Landing.png', // Support base64 image
+
+    },
+    {
+        image: '../assets/PI-Detail.png', // Support base64 image
+        thumbImage: '../assets/PI-Detail.png', // Support base64 image
+    }
+];

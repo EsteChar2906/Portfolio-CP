@@ -17,17 +17,17 @@ import { ProyectosComponent } from './proyectos/proyectos.component';
 
 @NgModule({
   declarations: [
-    AboutComponent,
-    AppComponent,
-    ContactComponent,
-    HabilitiesComponent,
-    NavComponent,
-    ProfileComponent,
-    ProyectosComponent
+  AboutComponent,
+  AppComponent,
+  ContactComponent,
+  HabilitiesComponent,
+  NavComponent,
+  ProfileComponent,
+  ProyectosComponent
   ],
   imports: [
-    BrowserModule,
-    AppRoutingModule
+  BrowserModule,
+  AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
