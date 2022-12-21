@@ -7,12 +7,18 @@ export const data = {
 };
 
 export const habilities = [
-{skill: "JavaScript", image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"},
+{skill: "HTML", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnvboRPKyxYPqvaiJ7H3RwYFDzE37bjwkj-D3-l0&s"},
+{skill: "CSS", image: "https://cdn-icons-png.flaticon.com/512/919/919826.png"},
+{skill: "JavaScript", image: "https://mseeeen.msen.jp/static/dff36bad692fa63eb3583a4c8983e3c1/compute-sum-with-javascript-reduce-function.png"},
 {skill: "TypeScript", image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"},
-{skill: "Node y Express", image: "https://w7.pngwing.com/pngs/1005/334/png-transparent-express-js-node-js-javascript-session-web-application-others.png"},
+{skill: "Node", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"},
+{skill: "Express", image: "https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png"},
 {skill: "Mongoose", image: "https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg"},
-{skill: "React", image: "https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"},
-{skill: "Angular", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"}
+{skill: "Sequelize", image: "https://cdn.iconscout.com/icon/free/png-256/sequelize-3-1175091.png"},
+{skill: "React", image: "https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png"},
+{skill: "Redux", image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"},
+{skill: "Angular", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"},
+{skill: "Boostrap", image: "https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png"}
 ];
 
 export const projects = [

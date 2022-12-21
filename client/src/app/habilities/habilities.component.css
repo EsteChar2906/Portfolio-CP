@@ -2,19 +2,20 @@
 	width: 700px;
 	height: 500px;
 	justify-content: center;
-	overflow-y: scroll;
 }
 
 .row{
 	margin: 10px;
-	width: 690px;
-	height: 430px;
+	width: 670px;
+	height: 460px;
+	overflow-y: scroll;
 }
 
 .card{
 	width: 180px; 
 	height: 200px; 
 	margin-bottom: 10px;
+	border-radius: 50px;
 	background-color: #fdffcd;
 }
 
@@ -22,6 +23,10 @@
 	.contenedorHabilities{
 		width: 500px;
 		height: auto;
+	}
+
+	.row{
+		width: 460px;
 	}
 
 	.card{
