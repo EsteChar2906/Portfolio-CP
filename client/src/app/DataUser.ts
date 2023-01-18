@@ -23,8 +23,8 @@ export const habilities = [
 
 export const projects = [
 {name: "FleaMarket", description: "E-commerce sobre articulos electronicos para programadores en que que pueden comprar productos, puntuarlos y agregarlos o eliminarlos siendo administrador", deploy: "https://flea-market-nu.vercel.app/", repo: "https://github.com/Josedld7/FleaMarket", video: "PF"},
-{name: "Countries App", description: "En esta app puedes buscar todos los paises con sus principales detalles, distintas actividades turisticas, además de crear una actividad si no la encuentras.", deploy: "https://pi-countries-main-nine.vercel.app/", repo: "https://github.com/EsteChar2906/PI-Countries-main", video: "PI"}
-]
+{name: "Countries App", description: "En esta app puedes buscar todos los paises con sus principales detalles, distintas actividades turisticas, además de crear una actividad si no la encuentras.", deploy: "https://pi-countries-main-nine.vercel.app/", repo: "https://github.com/EsteChar2906/PI-Countries-main", video: "PI"},
+{name: "CRUD de Negocios", description: "En esta app puedes agregar tu negocio y los demas usuarios podran verlo y contactarte. Para agregarlo debes iniciar sesion o registrarte.", deploy: "https://crud-autenticacion-production.up.railway.app/", repo: "https://github.com/EsteChar2906/CRUD-Autenticacion", image: "../assets/CRUD-Negocios.png"}]
 
 export const socialMedia = {
 	gitHub:"https://github.com/EsteChar2906",
